@@ -1,0 +1,9 @@
+{
+  "name":"Tanrıverdi Döner",
+  "short_name":"Tanrıverdi",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f6f6f6",
+  "theme_color":"#e21d25",
+  "lang":"tr"
+}
